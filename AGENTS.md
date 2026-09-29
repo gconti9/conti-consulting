@@ -1,0 +1,2 @@
+- Insights articles are Markdown files in content/insights/*.md, loaded server-side through src/lib/insights/repository.server.ts — single access point so the source can later move to a CMS.
+- Sitemap (/sitemap.xml) and RSS (/insights/rss.xml) are generated dynamically from the article list — new articles appear automatically.

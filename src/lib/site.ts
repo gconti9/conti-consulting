@@ -1,0 +1,13 @@
+export const SITE_URL = "https://conticonsulting.com.br";
+export const SITE_NAME = "Conti Consulting";
+export const EMAIL = "gabriel@conticonsulting.com.br";
+export const LINKEDIN_URL = "https://www.linkedin.com/company/conti-consulting";
+export const INSTAGRAM_URL = "https://instagram.com/conti.consulting";
+export const WHATSAPP_NUMBER = "5575991178427";
+export const WHATSAPP_MESSAGE = "Olá, equipe da Conti Consulting, quero agendar um diagnóstico.";
+export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`;
+export const OG_INSIGHTS_IMAGE = `${SITE_URL}/media/og-insights.jpg`;
+export const LOGO_URL = `${SITE_URL}/media/conti-logo.png`;
+export const OG_HOME_IMAGE = `${SITE_URL}/media/og-home.jpg`;
+export const OG_IMAGE_WIDTH = "1200";
+export const OG_IMAGE_HEIGHT = "630";
