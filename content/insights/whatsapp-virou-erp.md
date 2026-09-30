@@ -4,7 +4,7 @@ description: "Pedidos, aprovações e cobranças correndo em grupos de mensagem 
 category: operacoes
 date: 2026-09-22
 author: Gabriel Conti
-featured: true
+featured: false
 ---
 
 Existe um momento, na vida de muitas empresas de médio porte, em que o sistema oficial deixa de ser o lugar onde a operação acontece. O ERP continua lá, as licenças continuam sendo pagas, alguém ainda lança notas fiscais. Mas os pedidos de verdade, as aprovações de desconto, as mudanças de prazo e as reclamações de clientes passaram a viver em outro lugar: no WhatsApp.
