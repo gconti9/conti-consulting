@@ -4,7 +4,7 @@ description: "Muitas operações sólidas do estado cresceram pelo faro dos seus
 category: dados-gestao
 date: 2026-09-30
 author: Gabriel Conti
-featured: true
+featured: false
 ---
 
 A Bahia tem uma base empresarial que pouca gente fora do estado percebe. Grupos familiares que faturam dezenas ou centenas de milhões de reais, construídos ao longo de décadas no atacado, na distribuição, no agronegócio, na construção civil e no varejo regional. Empresas que nasceram da coragem comercial de um fundador que atendia o balcão, puxava a nota e negociava com fornecedor no mesmo dia.
