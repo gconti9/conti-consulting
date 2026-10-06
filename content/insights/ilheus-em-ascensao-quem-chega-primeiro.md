@@ -4,7 +4,7 @@ description: "Torres residenciais subindo, construtoras disputando terrenos e um
 category: comercial
 date: 2026-10-05
 author: Gabriel Conti
-featured: true
+featured: false
 ---
 
 Quem circula por Ilhéus nos últimos anos percebe a mudança antes de qualquer estatística. A Zona Sul ganha torres residenciais onde antes havia casas e terrenos vazios. Lançamentos de frente para o mar disputam a atenção de quem passa pela orla. Construtoras de fora e da própria região passaram a competir por terrenos que, até pouco tempo, ninguém olhava duas vezes.
