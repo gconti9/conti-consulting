@@ -4,7 +4,7 @@ description: "Com CBS e IBS já destacados nas notas fiscais e 2027 batendo à p
 category: dados-gestao
 date: 2026-10-06
 author: Gabriel Conti
-featured: true
+featured: false
 ---
 
 A reforma tributária deixou de ser assunto de seminário. Desde janeiro de 2026, CBS e IBS passaram a aparecer nas notas fiscais em caráter de teste. Desde agosto, empresas do regime regular não conseguem emitir nota sem preencher esses campos. E em 2027 a CBS entra para valer, com o fim do PIS e da Cofins.
